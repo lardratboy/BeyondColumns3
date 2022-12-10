@@ -2,7 +2,7 @@
 
 An early prototype for a 3D version of Beyond Columns - 
 
-Controls are the numeric keypad (arrow keys), left, right, up, down, space and 5 to reorder.
+Controls are the numeric keypad (arrow keys), left, right, up, down, space to drop and 5 to reorder.
 
 Also w for wire frame, s for silly mode, f for fast mode
 
